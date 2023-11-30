@@ -14,6 +14,5 @@ Further filtering options allow users to narrow down the visualization results.
 The script outputs a bar chart displaying the average total fare based on the selected variable.
 
 Destination Recommendation:
-Users provide information, including origin airport, travel duration, and total travel budget minus accommodations.
-Optional preferences for a specific airline or seat type can be inputted.
+Users provide information, including origin airport, travel duration, and total travel budget of daily needs and flight.
 
