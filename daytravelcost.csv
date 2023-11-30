@@ -1,0 +1,15 @@
+﻿city,living_cost_per_citizen_monthly,daily_cost,airport_code
+Atlanta,"$1,190 ",40,ATL
+Boston,"$4,180 ",139,BOS
+Chicago,"$2,704 ",90,ORD
+Dallas,"$2,333 ",78,DFW
+Denver,"$2,294 ",76,DEN
+Detroit,"$3,775 ",126,DTW
+Los Angeles,"$2,132 ",71,LAX
+Miami,"$1,252 ",42,MIA
+New York,"$8,690 ",290,JFK
+Newark,"$2,873 ",96,EWR
+Oakland,"$4,991 ",166,OAK
+Philadelphia,"$2,903 ",97,PHL
+San Francisco,"$9,433 ",314,SFO
+Washington DC,"$15,624 ",521,IAD
