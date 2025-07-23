@@ -6,6 +6,8 @@ Overview
 
 This Python script provides a Flight Data Visualization Software allowing users to compare average airfare based on various variables, such as destination airport, airline, and seat type. Additionally, it offers a destination recommendation feature based on user preferences, travel duration, and budget constraints.
 
+Data Processing and Cleaning done with SQL
+
 Features
 
 Flight Data Visualization:
